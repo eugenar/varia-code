@@ -136,7 +136,6 @@ namespace media
         public bool completed;
     }
 
-
     /// <summary>
     /// Encapsulates an asynchronous request
     /// </summary>
@@ -635,3 +634,4 @@ namespace media
     }
 
 }
+
